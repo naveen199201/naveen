@@ -39,10 +39,21 @@ function Projects() {
         <h1>Other Projects</h1>
         <div className="card col-3">
           <h3>Rental Listing</h3>
+
+          <b>Tech Stack</b><br />
+            ReactJs<br />
+            Django<br />
+            Bootstrap<br />
+          
           
         </div> 
         <div className="card  col-3">
           <h3>Injury Tracking</h3>
+
+          <b>Tech Stack</b><br />
+            ReactJs<br />
+            Django<br />
+            Bootstrap<br />
           
         </div>
       </div>
